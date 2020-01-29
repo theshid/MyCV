@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">MyCV App</string>
+
+    <string name="lorem">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent magna elit, malesuada quis quam sed, varius consectetur eros. Etiam dictum ac mi in rhoncus. Proin molestie ligula elit, non congue massa porttitor ac. Vivamus id felis eget risus sollicitudin eleifend. Cras bibendum vehicula posuere. Sed porta diam vitae tortor vehicula, vestibulum pretium ipsum posuere.  </string>
+    <string name="job_name">Android Developer &amp; Graphic Designer</string>
+    <string name="lorem2">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent magna elit, malesuada quis quam sed, varius consectetur eros. Etiam dictum ac mi in rhoncus. Proin molestie ligula elit, non congue massa porttitor ac. Vivamus id felis eget risus sollicitudin eleifend. Cras bibendum vehicula posuere. Sed porta diam vitae tortor vehicula, vestibulum pretium ipsum posuere. </string>
+    <string name="name">Shid\nInsa</string>
+    <string name="current_job_post">Current Job Post</string>
+    <string name="bachelor_in_computer_science">Bachelor in Computer Science</string>
+</resources>
